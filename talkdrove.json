@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "The session string used to authenticate the bot with WhatsApp. Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-      "value": "XPLOADER-BOT:~inRx3JBK#7FsAiYDgzFccikvCfKgC92GeYao5zs-T2fUfSrjKYxI",
+      "value": "XPLOADER-BOT:~6yZSFS7J#oE_sYwtvqVy9vW-TvM9tduM9tzCtOBcYwFUJ-szmnIY",
       "required": true
     },
     "BOT_NAME": {
